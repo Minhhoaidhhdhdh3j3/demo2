@@ -1,0 +1,123 @@
+body{
+    width: 774px;
+    margin: 0px auto;
+    padding-top: 20px;
+    box-sizing: border-box;
+}
+#gioithieu{
+    position: absolute;
+}
+
+.gioithieu{
+    margin-left: 250px;
+    margin-top: -59px;
+}
+
+#lienhe{
+    position: absolute;
+}
+
+.lienhe{
+    margin-left:385px;
+    margin-top: -59px;
+}
+
+#thuongmai{
+    position: absolute;
+}
+
+.thuongmai{
+    margin-top: -59px;
+    margin-left: 456px;
+}
+
+#dichvu{
+    position: absolute;
+}
+
+.dichvu{
+    margin-top: -59px;
+    margin-left: 550px;
+}
+
+#dautu{
+    position: absolute;
+}
+
+.dautu{
+    margin-top: -59px;
+    margin-left: 621px;
+}
+
+#dulich{
+    position: absolute;
+}
+
+.dulich{
+    margin-top: -59px;
+    margin-left: 687px;
+}
+
+.hover:hover{
+    opacity: 0;
+}
+
+#trai{
+    width: 200px;
+    height: 660px;
+    background-color: #6998cc;
+    float: left;
+}
+
+#gioithieuhinh{
+    position: absolute;
+}
+
+#english{
+    position: absolute;
+}
+
+#tiengviet{
+    position: absolute;
+}
+
+.english{
+    margin-left: 30px;
+    margin-top: 400px;
+}
+
+.tiengviet{
+    margin-left: 95px;
+    margin-top: -22px;
+}
+
+#content{
+    margin-left:220px;
+    line-height: 10px;
+}
+
+#chucnang1{
+    margin-left:220px;
+    list-style: square;
+}
+
+#chucnang2{
+    
+    list-style: none;
+}
+
+#chan{
+    background-color: red;
+    width: 574px;
+    height: 25px;
+    position: absolute;
+    margin-left: 200px;
+    margin-top: 12px;
+}
+
+#chan1{
+    color: white;
+    font-size: 15px;
+    margin: auto;
+    padding-top: 4px;
+}
