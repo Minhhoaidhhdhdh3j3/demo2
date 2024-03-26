@@ -1,0 +1,84 @@
+body{
+    width: 780px;
+    margin: auto;
+}
+#dau{
+    display: flex;
+    width: 780px;
+}
+
+
+#menu{
+    background-color: #0033ff;
+    width: 780px;
+    display: flex;
+}
+
+.menu{
+    display: inline;
+    padding: 5px 10px;
+}
+
+.menu:hover{
+    text-decoration: underline;
+    color: #FF0;
+}
+
+.menu:active{
+        color: #f0f;
+}
+
+a{
+    text-decoration: none;
+    color: #fff;
+}
+
+#trai{
+    width: 135px;
+    height: 1000px;
+    background-color: #0099ff;
+    float: left;
+}
+
+#margin{
+    margin-top: 25px;
+}
+.trai{
+    padding: 1px;
+}
+
+.traihover:hover{
+    filter: grayscale(100%);
+}
+
+#phai{
+    width: 145px;
+    height: 1000px;
+    background-color: #0099ff;
+    float: right;
+   margin: auto;
+   margin-top: -718px;
+}
+
+.phai{
+    padding: 0px 8px;
+
+}
+
+#giua{
+    width: 480px;
+    margin-left: 150px;
+}
+
+.tieude{
+   background-color: #0033ff;
+}
+
+#button{
+    margin-left: 250px;
+}
+
+span{
+    font-size: 10px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
